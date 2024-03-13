@@ -1,4 +1,4 @@
-baseurl = "https://doc.brandoriented.io/"
+baseurl = "https://docs.brandoriented.io/"
 languageCode = "en-us"
 title = "Brand Oriented Documentation"
 theme = "hugo-theme-learn"
