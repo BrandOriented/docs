@@ -1,0 +1,12 @@
+baseurl = "https://doc.brandoriented.io/"
+languageCode = "en-us"
+title = "Brand Oriented Documentation"
+theme = "hugo-theme-learn"
+MetaDataFormat = "yaml"
+
+[params]
+  editURL = "https://github.com/brandoriented/docs/edit/master/content/"
+  description = "Brand Oriented Documentation"
+  author = "Brand Oriented"
+  autoNav = true
+  search = true
